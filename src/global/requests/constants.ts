@@ -1,0 +1,1 @@
+export const responseStaleTime = 60000;
